@@ -75,7 +75,7 @@ Benchmark on the Jetson itself. The notebook latency covers the neural network o
 ## Repository layout
 
 ```
-ai-project-iith-fixed.ipynb   # full pipeline, stages 01-09
+ai-project-iith (3).ipynb   # full pipeline, stages 01-09
 README.md
 ```
 
