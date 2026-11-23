@@ -90,6 +90,3 @@ README.md
 - FLIR One Pro hand dataset: add the dataset citation and link here.
 - MediaPipe Hands (Google) and MobileNetV3 (Howard et al.).
 
-## License
-
-Add a license (for example MIT) before publishing.
